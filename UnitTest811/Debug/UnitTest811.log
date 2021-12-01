@@ -1,0 +1,4 @@
+﻿  UnitTest811.cpp
+C:\Projects\C++\Lab8_1_1\Lab8_1_1\lab8_1_1.cpp(14): warning C4715: 'ThirdComma': not all control paths return a value
+     Creating library C:\Projects\C++\Lab8_1_1\Debug\UnitTest811.lib and object C:\Projects\C++\Lab8_1_1\Debug\UnitTest811.exp
+  UnitTest811.vcxproj -> C:\Projects\C++\Lab8_1_1\Debug\UnitTest811.dll
